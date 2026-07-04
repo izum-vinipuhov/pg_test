@@ -16,5 +16,9 @@
     "title": "Hello Test",
     "preferredWidth": 480,
     "preferredHeight": 360
+  },
+  "permissions": {
+    "provider": true,
+    "network": true
   }
 }
