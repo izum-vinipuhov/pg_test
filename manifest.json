@@ -6,11 +6,11 @@
   "minAppVersion": "0.1.0",
   "author": {
     "name": "Izum Test",
-    "url": "https://github.com/izum-music"
+    "url": "https://github.com/izum-vinipuhov"
   },
   "description": "A minimal test plugin for the Izum Music plugin store. Displays a greeting text and a click counter.",
   "icon": "icon.jpg",
-  "homepage": "https://github.com/izum-music",
+  "homepage": "https://github.com/izum-vinipuhov/pg_test",
   "view": {
     "entry": "index.html",
     "title": "Hello Test",
