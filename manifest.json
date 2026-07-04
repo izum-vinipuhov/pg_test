@@ -1,0 +1,20 @@
+{
+  "manifestVersion": 1,
+  "id": "com.izum.test.hello",
+  "name": "Hello Test Plugin",
+  "version": "1.0.0",
+  "minAppVersion": "0.1.0",
+  "author": {
+    "name": "Izum Test",
+    "url": "https://github.com/izum-music"
+  },
+  "description": "A minimal test plugin for the Izum Music plugin store. Displays a greeting text and a click counter.",
+  "icon": "icon.jpg",
+  "homepage": "https://github.com/izum-music",
+  "view": {
+    "entry": "index.html",
+    "title": "Hello Test",
+    "preferredWidth": 480,
+    "preferredHeight": 360
+  }
+}
